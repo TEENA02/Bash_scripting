@@ -1,0 +1,2 @@
+using the single > symbol we can add the text to a file
+adding txt to curret text
